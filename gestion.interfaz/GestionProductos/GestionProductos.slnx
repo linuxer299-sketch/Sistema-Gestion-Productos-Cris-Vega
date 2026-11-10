@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../GestionProductos.Logica/GestionProductos.Logica.csproj" />
+  <Project Path="../gestion.interfaz.csproj" />
+</Solution>
